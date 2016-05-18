@@ -1,8 +1,9 @@
 /* ---- Ignore IDE Generated Directories ---- */
 .idea/
 
-/* ---- Ignore Node Modules Directory --- */
+/* ---- Ignore Node Modules Directory and NPM error logs --- */
 node_modules/
+npm-debug.log
 
 /* ---- Ignore Compiled Files Library (e.g. transpile ES6 "src/" to ES5 "lib/" ) ----- */
 lib/
