@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-project",
+  "description": "Cat ipsum dolor sit amet...",\
+  "keywords": [],
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": {
+    "name": "John Doe",
+    "email": "john.doe@unknown.com"
+  },
+  "contributors": [],
+  "repository": {},
+  "homepage": "",
+  "scripts": {},
+  "bin": {},
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "publishConfig": {},
+  "engines": {
+    "node": ">=4.1.1",
+    "npm": ">=3.3.12"
+  }
+}
