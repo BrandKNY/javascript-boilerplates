@@ -1,2 +1,8 @@
-/* ---- Ignore IDE Generated Directories */
+/* ---- Ignore IDE Generated Directories ---- */
 .idea/
+
+/* ---- Ignore Node Modules Directory --- */
+node_modules/
+
+/* ---- Ignore Compiled Files Library (e.g. transpile ES6 "src/" to ES5 "lib/" ) ----- */
+lib/
